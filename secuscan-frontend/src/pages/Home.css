@@ -1,0 +1,23 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    
+    text-align: center;
+}
+
+.home-title {
+    font-style: italic; 
+    font-size: 24px;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.2);
+    margin-bottom: 25px;
+    backdrop-filter: blur(10px);
+    color: black;
+}
+
+.fetch-button {
+    background: rgba(16, 185, 129, 0.6);
+    color: white;
+    padding: 12px;
+    border-radius: 6px;
+}

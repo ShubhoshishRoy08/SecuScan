@@ -1,0 +1,29 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+body {
+  background-image: url('https://www.cnet.com/a/img/resize/03de6ce8d2e63e95eac0aa81eb5ebfa95867b380/hub/2023/01/24/58b462da-f8dd-498e-bb25-89d744ce6619/gettyimages-1345658709.jpg?auto=webp&fit=crop&height=675&width=1200');
+  background-size: cover;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  width: 90%;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
