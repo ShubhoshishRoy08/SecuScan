@@ -20,4 +20,4 @@ SecuScan is not just a security tool—it is a developer-friendly auditing assis
 democratizing smart contract security and helping prevent financial disasters in DeFi, NFT, and
 DAO ecosystems. By providing a comprehensive, easy-to-use security suite, SecuScan
 empowers developers to write secure and efficient smart contracts, reinforcing trust in
-blockchain applications. �
+blockchain applications. 🚀
